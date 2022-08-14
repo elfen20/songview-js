@@ -1,0 +1,18 @@
+#svContainer {
+    position: absolute;
+    width: 99%;
+    height: auto;
+}
+
+#svEditor {
+    position: relative;
+    float: left;
+}
+
+#svViewer {
+    position: relative;
+    float: left;
+    width: auto;
+    margin-left: 2px;
+}
+
