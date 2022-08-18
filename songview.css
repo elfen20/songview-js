@@ -16,3 +16,20 @@
     margin-left: 2px;
 }
 
+.svBlock {
+    position: relative;
+    background-color: azure;
+    margin: 5px;
+}
+
+.svChord {
+    background-color: greenyellow;
+    position: relative;
+    top: -15px;
+
+}
+
+.svText {
+    background-color: mistyrose;
+}
+
